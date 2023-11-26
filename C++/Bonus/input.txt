@@ -1,0 +1,5 @@
+4
+burger 100 2
+sandwitch 400 3
+ice 10 10
+pizza 200 3
