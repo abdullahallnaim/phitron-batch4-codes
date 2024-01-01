@@ -1,0 +1,1 @@
+Next Greater Elements: 6 8 8 8 -1 -1 
